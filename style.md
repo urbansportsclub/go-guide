@@ -132,8 +132,8 @@ of these are general guidelines for Go, while others extend upon external
 resources:
 
 1. [Effective Go](https://golang.org/doc/effective_go.html)
-2. [Go Common Mistakes](https://github.com/golang/go/wiki/CommonMistakes)
-3. [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+2. [Go Common Mistakes](https://go.dev/wiki/CommonMistakes)
+3. [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)
 
 We aim for the code samples to be accurate for the two most recent minor versions
 of Go [releases](https://go.dev/doc/devel/release).
